@@ -1,3 +1,4 @@
+
 CREATE TABLE users (
                        id SERIAL PRIMARY KEY,
                        passport_number VARCHAR(20) NOT NULL,
